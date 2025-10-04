@@ -12,6 +12,7 @@ try
         Invalid_WithEmptyLines.cs
         Invalid_WithNonPublicModifiers.cs
         Invalid_WithNotSupportedTypes.cs
+        Invalid_NestedClassPosition.cs
         Invalid_MoreThanOneNestedLevel.cs
         Invalid_MultipleCombinationErrors.cs
     */
